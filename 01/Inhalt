@@ -1,0 +1,20 @@
+1. Python installation überprüfen: python --version
+
+2. Terminal öffnen cmd oder Powershell
+
+3. python
+3.1 print("Hello, world!")
+3.2 print('Hello, world!')
+3.3 print('Hallo Schatzi') # oder was auch immer
+3.4 print("""Wilkommen
+... zum Python Kurs
+... vom Tüftellabor Einstein Zug""")
+
+3.5 alter = 5
+    name = 'Röbi'
+    print('Der liebe {0} ist gerade einmal {1} Jahre alt... :-)'.format(name, alter))
+
+4. Visual Studio Code installation 
+4.1 Python extension installieren
+
+5. 
