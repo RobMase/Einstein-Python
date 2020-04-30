@@ -1,8 +1,7 @@
 import turtle
 
-bildschirm = turtle.getscreen()
-
 schildkroete = turtle.Turtle()
+bildschirm = schildkroete.getscreen()
 
 schildkroete.shapesize(5,5,5)
 schildkroete.forward(500)
