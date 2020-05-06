@@ -4,3 +4,7 @@
 2. Extensions/Erweiterungen für VS Code für Python:
 2.1 ms-python.python
 2.2 arepl
+
+3. Snake mit Turtle
+3.1 Siehe 01_Snake.py
+3.2 Dokumentation: https://docs.python.org/3.7/library/turtle.html
