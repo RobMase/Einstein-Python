@@ -12,9 +12,9 @@ for index in range(4):
 else:
     schildi.dot(50)
 
-# schildi.setpos(-300, 0)
-# for index in range(8):
-#     schildi.left(45)
-#     schildi.forward(200)
+schildi.setpos(-300, 0)
+for index in range(8):
+    schildi.left(45)
+    schildi.forward(200)
 
 turtle.done()

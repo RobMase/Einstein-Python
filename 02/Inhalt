@@ -8,3 +8,25 @@
 3. Snake mit Turtle
 3.1 Siehe 01_Snake.py
 3.2 Dokumentation: https://docs.python.org/3.7/library/turtle.html
+
+4. For-Schleife
+4.1 Syntax:
+
+for <target_list> in <expression_list>:
+    Code-Block
+else:
+    Code-Block beim verlassen der Schleife
+
+4.2 Siehe 02_For_Snake.py
+4.3 Siehe 03_For_Snake.py
+
+
+5. While-Schleife
+5.1 Syntax:
+
+while <Bedingung>:
+    Code-Block
+else:
+    Code-Block beim verlassen der Schleife
+
+5.2 Siehe 04_While_Schleife.py
