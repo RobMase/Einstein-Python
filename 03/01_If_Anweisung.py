@@ -1,4 +1,4 @@
-esIstWarm = False
+esIstWarm = True
 
 if esIstWarm:
     print("Zieh die kurzen Hosen an.")
@@ -29,12 +29,12 @@ esIstKalt = True
 #         print("Und trinke warmen Tee.")
 # print ("Bye bye")
 
-if esIstWarm:
-    print("Zieh die kurzen Hosen an.")
-    print("Und trinke viel Wasser.")
-elif esIstKalt:
-    print("Dann zieh dich warm an.")
-    print("Und trinke warmen Tee.")
-else:
-    print("Geniesse den schönen Tag.")
-print ("Bye bye")
+# if esIstWarm:
+#     print("Zieh die kurzen Hosen an.")
+#     print("Und trinke viel Wasser.")
+# elif esIstKalt:
+#     print("Dann zieh dich warm an.")
+#     print("Und trinke warmen Tee.")
+# else:
+#     print("Geniesse den schönen Tag.")
+# print ("Bye bye")
