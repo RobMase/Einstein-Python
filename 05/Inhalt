@@ -1,0 +1,21 @@
+Python Dokumentation:
+https://docs.python.org/3/library/stdtypes.html
+
+Datentypen
+
+1. Text
+    - String
+2. Zahlen
+    - int: Ganze Zahlen
+    - float: Kommazahlen
+    - complex: komplexen Zahlen
+3. Wahrheit:
+    - boolean: Wahr und Falsch
+3. Sequenzen:
+    - list: Listen
+    - tuple: Tupel
+    - range: Bereich
+4. Mengen:
+    - set: Menge
+5. Abbildungen:
+    - dict: Wörterbuch
