@@ -1,0 +1,18 @@
+1. Einführung
+1.1 Wozu: 
+    - Modellierung von Software vereinfachen
+    - Ohne Strukturierung des Quellcodes, werden grosse Projekte schnell unübersichtlich
+1.2 Objektoriente Programmierung (OOP)
+    - Objekte in der realen Welt weissen Eigenschaften und Funktionen auf:
+        z.B.: Schraubendreher: Grösse, Kreuzschlitz/Schlitz, Man kann mit ihm 
+        Schrauben rein- und rausdrehen
+    - OOP bringt diese Prinzipien in die Softwar-Entwicklung
+
+2. 01_Class.py
+3. draw.io
+4. Hunde.py
+5. Vererbung
+5.1 Hierarchien können programmiert werden
+
+6. Hunde Vererbung
+7. Brainstorming OOP Ratespiel
