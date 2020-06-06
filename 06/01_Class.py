@@ -1,25 +1,28 @@
 class ersteKlasse:
     pass
 
-class KlassenName:
+
+class Irgendwas:
     klassenVariable = 0
 
     def __init__(self):
         self.instanzVariable = 10
 
     def meineFunktion(self):
-        return "Hallo Klasen-Welt"
+        return "Hallo Klassen-Welt"
 
-instanzObjekt = KlassenName()
-print(instanzObjekt.klassenVariable)
-print(instanzObjekt.instanzVariable)
+
+instanzObjekt = Irgendwas()
+x = Irgendwas()
+y = Irgendwas()
+
 print(instanzObjekt.meineFunktion())
+print(instanzObjekt.instanzVariable)
+print(instanzObjekt.klassenVariable)
 
-methodenObjekt = instanzObjekt.meineFunktion
-print(methodenObjekt())
+# print(instanzObjekt.klassenVariable)
+# print(instanzObjekt.instanzVariable)
+# print(instanzObjekt.meineFunktion())
 
-
-def funktion(printstring):
-    print(printstring)
-
-funktion("hez hez")
+# methodenObjekt = instanzObjekt.meineFunktion
+# print(methodenObjekt())
