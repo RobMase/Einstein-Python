@@ -5,7 +5,3 @@ def funktionenName(vorname = "StandardVorname", nachname = "StandardNachname"):
 funktionenName()
 funktionenName("Robert")
 funktionenName("Robert", "Masur")
-
-def funktionenNameGehtNicht(vorname , nachname = "asnndkasd"):
-    kompletterName = vorname + " " + nachname
-    print(f"Hallo {kompletterName}")

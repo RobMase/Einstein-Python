@@ -25,13 +25,7 @@ fiffi.bellen()
 koeter = Schaeferhund()
 koeter.bellen()
 
-class Bernersennenhund(Hund):
-    def __init__(self, belllaut):
-        self.bellLaut = belllaut
-
-bello = Bernersennenhund("Bell bell")
-bello2 = Bernersennenhund("Bello bello")
-
+-
 # hundeList = [fiffi, koeter]
 # print(f"List von Hunden: {hundeList}")
 
@@ -40,3 +34,4 @@ bello2.bellen()
 
 # print(f"bello: {bello.bellen()}")
 # print(f"bello2: {bello2.bellen()}")
+
