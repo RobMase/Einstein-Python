@@ -15,7 +15,7 @@ class Hund:
     def sitz(self):
         print(" Ich sitze :-)  ")
 
-bello = Hund("Bello", "Wau wau!", 3, "gruen")
+# bello = Hund("Bello", "Wau wau!", 3, "gruen")
 bello.bellen()
 bello.gibPfote()
 
