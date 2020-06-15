@@ -25,7 +25,6 @@ fiffi.bellen()
 koeter = Schaeferhund()
 koeter.bellen()
 
--
 # hundeList = [fiffi, koeter]
 # print(f"List von Hunden: {hundeList}")
 
